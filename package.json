@@ -1,0 +1,32 @@
+{
+  "name": "randomuser",
+  "version": "1.0.0",
+  "description": "Aplicação para consumir dados da API randomuser.me",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsoliveira87/randomuser.git"
+  },
+  "author": "Robson Oliveira",
+  "license": "ISC",
+  "homepage": "https://github.com/rsoliveira87/randomuser.git#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap-sass": "^3.3.7",
+    "consign": "^0.1.6",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "gulp-cli": "^2.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "npm": "^5.7.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "restify-clients": "^2.0.0"
+  }
+}
